@@ -1,0 +1,8 @@
+C:\Users\OnesUser\Desktop\rpn\WindowsServiceSound\WindowsServiceSound\bin\Debug\WindowsServiceSound.exe.config
+C:\Users\OnesUser\Desktop\rpn\WindowsServiceSound\WindowsServiceSound\bin\Debug\WindowsServiceSound.exe
+C:\Users\OnesUser\Desktop\rpn\WindowsServiceSound\WindowsServiceSound\bin\Debug\WindowsServiceSound.pdb
+C:\Users\OnesUser\Desktop\rpn\WindowsServiceSound\WindowsServiceSound\obj\Debug\WindowsServiceSound.csproj.AssemblyReference.cache
+C:\Users\OnesUser\Desktop\rpn\WindowsServiceSound\WindowsServiceSound\obj\Debug\WindowsServiceSound.csproj.SuggestedBindingRedirects.cache
+C:\Users\OnesUser\Desktop\rpn\WindowsServiceSound\WindowsServiceSound\obj\Debug\WindowsServiceSound.csproj.CoreCompileInputs.cache
+C:\Users\OnesUser\Desktop\rpn\WindowsServiceSound\WindowsServiceSound\obj\Debug\WindowsServiceSound.exe
+C:\Users\OnesUser\Desktop\rpn\WindowsServiceSound\WindowsServiceSound\obj\Debug\WindowsServiceSound.pdb
